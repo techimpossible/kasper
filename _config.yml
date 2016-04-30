@@ -2,7 +2,7 @@ name: The Morning Writer
 description: Morning Pages. Every Day.
 meta_description: "Morning Pages. Every Day"
 
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
