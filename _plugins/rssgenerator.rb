@@ -46,7 +46,7 @@ module Jekyll
         maker.channel.updated = site.posts.map { |p| p.date  }.max
         maker.channel.copyright = site.config['copyright']
 
-        post_limit = (site.config['rss_post_limit'] - 1 rescue site.posts.count)
+        post_limit = (site.config['rss_post_limit'] - 1 rescue posts.docs.count)
 
         site.posts.reverse[0..post_limit].each do |post|
           maker.items.new_item do |item|
