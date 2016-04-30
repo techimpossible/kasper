@@ -14,3 +14,8 @@ google_analytics: 'UA-XXXXXXXX-X'
 # Details for the RSS feed generator
 url:            'https://www.themorningwriter.com/'
 author:         'The Morning Writer'
+
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
