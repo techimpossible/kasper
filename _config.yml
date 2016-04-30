@@ -1,9 +1,9 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: The Morning Writer
+description: Morning Pages. Every Day.
+meta_description: "Morning Pages. Every Day"
 
-markdown: redcarpet
-highlighter: pygments
+markdown: markdown
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
@@ -11,5 +11,5 @@ domain_name: 'https://www.themorningwriter.com/'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'https://www.themorningwriter.com/'
+author:         'The Morning Writer'
