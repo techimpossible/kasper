@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: https://www.peterskaronis.com/kasper/
-domain_name: 'https://www.peterskaronis.com/kasper'
+baseurl: 'https://techimpossible.github.io/kasper'
+domain_name: 'https://techimpossible.github.io/kasper'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
