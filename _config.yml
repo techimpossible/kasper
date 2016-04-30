@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: 'https://techimpossible.github.io/kasper'
+baseurl: ''
 domain_name: 'https://techimpossible.github.io/kasper'
 google_analytics: 'UA-XXXXXXXX-X'
 
