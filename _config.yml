@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: ''
-domain_name: 'https://techimpossible.github.io/kasper'
+baseurl: '/'
+domain_name: 'https://www.themorningwriter.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
