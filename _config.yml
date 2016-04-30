@@ -17,5 +17,4 @@ author:         'The Morning Writer'
 
 
 gems:
-  - jekyll-sitemap
   - jekyll-paginate
